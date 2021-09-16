@@ -226,3 +226,56 @@ nav .container{
     position: absolute;
     top: 520px;
 }
+
+.create_h4{
+    color: red;
+    position: absolute;
+    top: 800px;
+    font-size: 23px;
+    left: 500px;
+}
+
+.create_h1{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+    font-size: 40px;
+}
+
+.create_h2{
+    position: absolute;
+    top: 970px;
+    color: darkgray;
+    left: 500px;
+    font-size: 20px;
+}
+
+
+.shop_h4{
+    color: red;
+    position: absolute;
+    top: 1400px;
+    font-size: 23px;
+    left: 150px;
+}
+
+.shop_h1{
+    position: absolute;
+    top: 1450px;
+    left: 150px;
+    font-size: 35px;
+}
+
+.shop_h2{
+    position: absolute;
+    top: 1560px;
+    color: darkgray;
+    left: 150px;
+    font-size: 20px;
+}
+
+.shop_how{
+    position: absolute;
+    top: 1100px;
+    left: 500px;
+}
