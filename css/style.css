@@ -138,6 +138,7 @@ nav .container{
 
 .main_img_1{
     width: 1140px;
+    margin-top: 30px;
 }
 
 .main_text_h4{
@@ -263,12 +264,12 @@ nav .container{
     position: absolute;
     top: 1450px;
     left: 150px;
-    font-size: 35px;
+    font-size: 50px;
 }
 
 .shop_h2{
     position: absolute;
-    top: 1560px;
+    top: 1600px;
     color: darkgray;
     left: 150px;
     font-size: 20px;
@@ -277,5 +278,116 @@ nav .container{
 .shop_how{
     position: absolute;
     top: 1100px;
+    left: 650px;
+}
+
+
+.get_h4{
+    color: red;
+    position: absolute;
+    top: 2000px;
+    font-size: 23px;
+    left: 550px;
+}
+
+.get_h1{
+    position: absolute;
+    top: 2050px;
+    left: 550px;
+    font-size: 40px;
+}
+
+.get_h2{
+    position: absolute;
+    top: 2200px;
+    color: darkgray;
+    left: 550px;
+    font-size: 20px;
+}
+
+.get_how{
+    position: absolute;
+    top: 1800px;
+    left: 50px;
+}
+
+.maiin_img_2{
+    position: absolute;
+    width: 1140px;
+    top: 2600px;
+}
+
+.now_h2{
+    position: absolute;
+    top: 2720px;
+    left: 400px;
+    color: white;
+    font-size: 35px;
+}
+
+.now_text{
+    position: absolute;
+    top: 2780px;
+    text-align: center;
+    left: 260px;
+    color: rgb(221, 211, 211);
+    font-size: 20px;
+}
+
+.now_li{
+    position: absolute;
+  
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    top: 2900px;
+    left: 330px;
+    height: 50px;
+    border: 3px solid white;
+}
+
+
+
+.now_lii{
+position: absolute;
+top: 2900px;
+width: 200px;
+border-radius: 10px;
+text-align: center;
+left: 600px;
+height: 50px;
+background-color: red;
+}
+
+.nav_li_a{
+    color: white;
+    margin-top: 10px;
+}
+
+.footer_img{
+    position: absolute;
+    top: 3050px;
+    left: 100px;
+}
+
+.footer_icon{
+    position: absolute;
+    top: 3100px;
     left: 500px;
+}
+
+.footer_iconinsta{
+    position: absolute;
+    top: 3100px;
+    left: 635px;
+}
+
+.footer_text{
+    position: absolute;
+    top: 3100px;
+    left: 800px;
+}
+
+.main_img_text_li:hover{
+    background-color: blue;
 }
