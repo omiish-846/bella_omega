@@ -391,3 +391,31 @@ background-color: red;
 .main_img_text_li:hover{
     background-color: blue;
 }
+
+@media (max-width: 1160px) {
+    .container{
+        width: 1060px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 1060px) {
+    .container_fluid{
+        width: 960px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 1120px) {
+    .container{
+        width: 900px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 950px) {
+    .container{
+        width: 800px;
+        margin: 0 auto;
+    }
+}
